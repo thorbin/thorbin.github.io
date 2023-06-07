@@ -283,11 +283,13 @@ text-align:left;
         font-family: rockwell; 
         font-size:40px;
      }
-    .p8 {
+    .snipcart-add-item {
         font-family: rockwell; 
         z-index:1;
+        background-color: inherit;
+        border:none;
 
-    }
+    } 
      /* slide Gallery styling -----------------------------------------------------------------------*/ 
 
 
