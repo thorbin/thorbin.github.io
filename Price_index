@@ -1,0 +1,10 @@
+{"menu_items":[
+  {"name": "Rear_Racks","price": 150},
+  {"name": "front racks","price": 175},
+  {"name": "drop bags","price": 1000000},     
+  {"name": "flat bags","price": 0},    
+  {"name": "Half frame bags","price": 0},
+  {"name": "full frame bags","price": 0},    
+  {"name": "Tools","price": 0},
+  {"name": "saddle_carr","price": 45}  
+]}
