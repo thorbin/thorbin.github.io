@@ -6,5 +6,6 @@
   {"name": "Half frame bags","price": 0},
   {"name": "full frame bags","price": 0},    
   {"name": "Tools","price": 0},
-  {"name": "saddle_carr","price": 45}  
+  {"name": "saddle_carr","price": 45},
+  {"name": "drink_tote", "price": 25}
 ]}
